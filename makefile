@@ -8,7 +8,7 @@ CFLAGS = -Wall -std=c++11
 TARGET = main
 
 # Source files
-SOURCES = main.cpp
+SOURCES = main.cpp HashTable.cpp
 
 # Header files
 HEADERS = HashTable.h
